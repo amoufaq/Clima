@@ -8,8 +8,8 @@ The objective of this project was to learn about asynchronous programming in Dar
 
 
 ## Visual Demo:
-a visual demonstration of my project (please wait to the GIF to appear)
 
+A visual demonstration of my project (please wait for the GIF to load).
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ## What I learned
