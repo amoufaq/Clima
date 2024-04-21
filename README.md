@@ -10,7 +10,7 @@ The objective of this project was to learn about asynchronous programming in Dar
 ## Visual Demo:
 
 A visual demonstration of my project (please wait for the GIF to load).
-![Finished App]([https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif](https://github.com/amoufaq/Clima/blob/master/Clima%20demo%20recording.gif))
+![Finished App]([https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif]
 
 ## What I learned
 
