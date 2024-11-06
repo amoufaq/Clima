@@ -11,6 +11,8 @@ The objective of this project was to learn about asynchronous programming in Dar
 
 A visual demonstration of my project (please wait for the GIF to load).
 
+<img src="https://github.com/amoufaq/Clima/blob/master/Climademorecording.gif" width="300" height="650">
+
 ## What I learned
 
 - Utilizing Dart for asynchronous task handling.
